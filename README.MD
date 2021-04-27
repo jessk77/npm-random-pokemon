@@ -5,13 +5,13 @@ Get a random pokemon from the original 150
 ## Install
 
 ```npm
-npm install -g random-pokemon
+npm install -g random-pokemon-jtest
 ```
 
 # Usage
 
 ```bash
-random-pokemon
+random-pokemon-jtest
 ```
 
 # License
