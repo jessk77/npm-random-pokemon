@@ -11,7 +11,7 @@ npm install -g random-pokemon-jtest
 # Usage
 
 ```bash
-random-pokemon-jtest
+random-pokemon
 ```
 
 # License
